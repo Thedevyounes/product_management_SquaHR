@@ -18,36 +18,36 @@ Develop a product management web application using Laravel and Vue.js. The appli
 
 1. Clone the repository: 
 ```shell 
-git clone https://github.com/Thedevyounes/product_management_SquaHR.git`
+git clone https://github.com/Thedevyounes/product_management_SquaHR.git
 ```
 2. Navigate to the project directory: 
 ```shell 
-cd product_management_SquaHR`
+cd product_management_SquaHR
 ```
 3. Install Composer dependencies: 
 ```shell 
-composer install`
+composer install
 ```
 4. Install Node.js dependencies: 
 ```shell 
-npm install`
+npm install
 ```
 5. Copy the `.env.example` file to `.env`: 
 ```shell 
-copy .env.example .env`
+copy .env.example .env
 ```
 6. Generate the application key: 
 ```shell 
-php artisan key:generate --ansi`
+php artisan key:generate --ansi
 ```
 7. Modify the database configuration in the `.env` file
 8. Run database migrations: 
 ```shell 
-php artisan migrate`
+php artisan migrate
 ```
 9. Seed the database: 
 ```shell 
-php artisan db:seed`
+php artisan db:seed
 ```
 
 ## Tools
