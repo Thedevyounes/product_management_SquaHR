@@ -20,25 +20,25 @@ Develop a product management web application using Laravel and Vue.js. The appli
 
 This page displays a list of products, allows users to search and filter products by name and size, and provides options to edit and delete products.
 
-<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Index.png" height="200" alt="Index">
+<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Index.png" width="400" alt="Index">
 
 ### Create
 
 This page is responsible for creating a new product by allowing users to input the product's name, description, and size, and submit the form to store the product details in the database.
 
-<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Create.png" height="200" alt="Create">
+<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Create.png" width="400" alt="Create">
 
 ### Edit
 
 This page allows users to edit a product's name, description, and size, and submit the changes to update the product details.
 
-<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Edit.png" height="200" alt="Edit">
+<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Edit.png" width="400" alt="Edit">
 
 ### Edit
 
 This alert is responsible for confirming and deleting a product using the ID.
 
-<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Delete.png" height="200" alt="Delete">
+<img src="https://github.com/Thedevyounes/product_management_SquaHR/blob/main/_screens/Delete.png" width="400" alt="Delete">
 
 ## Commands & Steps
 
